@@ -1,6 +1,8 @@
 
 # 📊 Financial Modeling Dashboard with ML Forecasting
 
+<img width="960" alt="FM-1" src="https://github.com/user-attachments/assets/c9b0bab1-d836-4d7e-bab8-e49c8f0e75c8" />
+
 A complete end-to-end **Financial Modeling Dashboard** built using **Streamlit**, powered by **AI/ML Forecasting**, dynamic **Data Visualization**, and **Automated Reporting**. Designed for analysts, finance teams, and decision-makers to interactively explore financial performance, trends, and future projections from various datasets.
 
 ---
@@ -148,8 +150,6 @@ streamlit run app.py
 ---
 
 ## 📈 Screenshots
-
-<img width="960" alt="FM-1" src="https://github.com/user-attachments/assets/c9b0bab1-d836-4d7e-bab8-e49c8f0e75c8" />
 
 
 <img width="960" alt="FM-3" src="https://github.com/user-attachments/assets/d14eca7f-b80d-4fc9-83db-85b389678ea6" />
