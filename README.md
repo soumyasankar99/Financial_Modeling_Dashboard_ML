@@ -149,9 +149,14 @@ streamlit run app.py
 
 ## 📈 Screenshots
 
-| KPI Cards | Forecast | Charts |
-|-----------|----------|--------|
-| ![KPIs](https://via.placeholder.com/250) | ![Forecast](https://via.placeholder.com/250) | ![Charts](https://via.placeholder.com/250) |
+<img width="960" alt="FM-1" src="https://github.com/user-attachments/assets/c9b0bab1-d836-4d7e-bab8-e49c8f0e75c8" />
+
+
+<img width="960" alt="FM-3" src="https://github.com/user-attachments/assets/d14eca7f-b80d-4fc9-83db-85b389678ea6" />
+
+
+<img width="960" alt="FM-5" src="https://github.com/user-attachments/assets/13116526-ed08-482e-b650-80b929dade71" />
+
 
 ---
 
